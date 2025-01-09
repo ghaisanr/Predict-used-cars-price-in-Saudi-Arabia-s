@@ -1,0 +1,729 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Price
+Ciocca,Riyadh,Toyota,Automatic,Saudi,Standard,2016,5.7,348000,79000
+C,Dammam,Mercedes,Automatic,Other,Full,2019,2.0,15000,175000
+D-MAX,Dammam,Isuzu,Manual,Saudi,Standard,2015,2.5,445539,53000
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2013,4.6,101000,150000
+C,Dammam,Mercedes,Automatic,Saudi,Semi Full,2019,2.0,44000,185000
+Impala,Dammam,Chevrolet,Automatic,Saudi,Standard,2016,3.5,91000,55000
+Malibu,Abha,Chevrolet,Automatic,Saudi,Standard,2020,1.5,62000,57000
+Grand Cherokee,Jeddah,Jeep,Automatic,Saudi,Standard,2015,3.6,148,69500
+Expedition,Dammam,Ford,Automatic,Saudi,Standard,2014,5.4,120000,65000
+C,Dammam,Mercedes,Automatic,Other,Full,2016,2.0,99000,129000
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2016,5.0,70000,288000
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2017,2.5,95000,78000
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2018,4.0,56000,150000
+Rav4,Riyadh,Toyota,Automatic,Saudi,Standard,2018,2.5,153000,66000
+5008,Riyadh,Peugeot,Automatic,Saudi,Semi Full,2018,1.6,34000,85000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,97300,31000
+Malibu,Dammam,Chevrolet,Automatic,Saudi,Full,2013,3.6,177000,30000
+Sunny,Jeddah,Nissan,Automatic,Saudi,Standard,2019,1.5,56991,33500
+Dokker,Riyadh,Renault,Manual,Saudi,Semi Full,2016,1.0,155000,20000
+Land Cruiser,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2006,4.8,247000,55000
+S,Riyadh,Mercedes,Automatic,Other,Semi Full,2005,5.0,350000,20000
+Sunny,Jeddah,Nissan,Automatic,Other,Semi Full,2019,1.5,46000,32000
+Yukon,Qassim,GMC,Automatic,Saudi,Full,2012,5.3,270,39000
+FJ,Dammam,Toyota,Automatic,Saudi,Semi Full,2014,4.0,199000,95000
+Sonata,Riyadh,Hyundai,Automatic,Gulf Arabic,Full,2016,2.4,38000,63000
+Spark,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2017,1.4,108,20000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2017,1.5,106646,22500
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2010,4.6,344000,88000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2010,2.7,260000,65000
+Rio,Dammam,Kia,Automatic,Saudi,Standard,2014,1.4,78000,24000
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2020,2.5,3000,118000
+H1,Aseer,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,49000,70000
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2016,3.5,161353,57500
+C,Jeddah,Mercedes,Automatic,Other,Full,2017,2.0,20000,180000
+Prado,Jubail,Toyota,Automatic,Saudi,Full,2015,1.6,55000,130000
+Suburban,Aseer,GMC,Automatic,Saudi,Semi Full,2000,6.0,128000,80000
+S,Dammam,Mercedes,Automatic,Other,Full,2016,3.0,56000,240000
+LS,Riyadh,Lexus,Automatic,Other,Semi Full,2015,4.6,51000,200000
+Pilot,Riyadh,Honda,Automatic,Gulf Arabic,Full,2015,3.5,98000,75000
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Standard,2016,3.6,118000,48000
+Azkarra,Dammam,Geely,Automatic,Saudi,Full,2021,1.5,23000,75000
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.4,135000,27500
+Suburban,Dammam,Chevrolet,Automatic,Saudi,Standard,2015,5.3,164000,110000
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2018,2.4,20000,126000
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.5,96000,85000
+Avalon,Jeddah,Toyota,Automatic,Saudi,Full,2020,3.5,33000,164000
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Full,2006,3.5,300,21000
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Semi Full,2018,3.5,28000,122000
+5008,Riyadh,Peugeot,Automatic,Saudi,Standard,2012,1.6,12000,27000
+Victoria,Taef,Ford,Automatic,Saudi,Standard,2006,4.6,234000,22000
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2017,3.5,128439,76500
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2016,1.6,270000,33000
+360,Jeddah,MG,Automatic,Saudi,Full,2019,1.2,24000,36000
+Furniture,Jeddah,Toyota,Automatic,Saudi,Standard,2011,2.7,304000,32000
+Emgrand,Qassim,Geely,Automatic,Saudi,Full,2020,2.4,37000,58000
+Elantra,Taef,Hyundai,Manual,Saudi,Standard,2007,1.6,191700,13000
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2020,5.0,36000,540000
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2018,1.0,105000,355000
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2016,2.7,155000,61000
+Touareg,Qassim,Volkswagen,Automatic,Saudi,Semi Full,2015,4.0,183000,69000
+Hilux,Qassim,Toyota,Manual,Saudi,Full,2015,2.7,328000,66000
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2018,3.5,24000,106000
+Patrol,Qassim,Nissan,Automatic,Saudi,Semi Full,2016,5.6,145000,128000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2017,2.4,88718,58000
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2013,5.4,270000,49500
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,40000,42000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,87775,26000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,96341,26000
+Sunny,Abha,Nissan,Manual,Other,Semi Full,2007,2.8,300020,15000
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2018,5.7,34000,80000
+Fusion,Hail,Ford,Automatic,Saudi,Semi Full,2015,2.4,178000,30000
+Hiace,Jubail,Toyota,Manual,Saudi,Standard,2012,2.7,126000,35000
+Charger,Al-Ahsa,Dodge,Automatic,Saudi,Semi Full,2018,3.6,124000,99000
+Yaris,Dammam,Toyota,Automatic,Saudi,Standard,2016,1.5,180000,28500
+Hilux,Al-Medina,Toyota,Manual,Saudi,Full,2018,2.7,71000,62000
+Cruze,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2017,1.8,101000,30000
+Land Cruiser,Jeddah,Toyota,Automatic,Gulf Arabic,Full,2017,5.7,120000,225000
+APV,Dammam,Suzuki,Manual,Saudi,Standard,2017,1.6,80000,30000
+G80,Riyadh,Genesis,Automatic,Gulf Arabic,Full,2017,3.8,66000,119000
+Corolla,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.6,68000,44000
+Accent,Taef,Hyundai,Automatic,Saudi,Full,2014,1.6,324000,20000
+ES,Al-Ahsa,Lexus,Automatic,Other,Full,2017,3.5,101000,119000
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2018,2.0,101381,48500
+Range Rover,Jeddah,Land Rover,Automatic,Saudi,Full,2008,3.3,240,35000
+Charger,Khobar,Dodge,Automatic,Saudi,Full,2019,3.6,78000,124000
+A3,Jeddah,Audi,Automatic,Saudi,Semi Full,2020,1.4,6000,105000
+Dyna,Qassim,Isuzu,Manual,Gulf Arabic,Full,2014,6.0,460000,120000
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.4,138000,24000
+ES,Dammam,Lexus,Automatic,Gulf Arabic,Semi Full,2016,2.6,92000,98000
+Senta fe,Khobar,Hyundai,Automatic,Saudi,Full,2015,3.3,246000,60000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2005,4.0,446,50000
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2017,1.6,110000,45000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2014,6.0,180000,70000
+Maxima,Riyadh,Nissan,Automatic,Saudi,Full,2004,3.0,230000,15000
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2013,3.0,48000,103000
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2019,2.0,54000,80000
+The 5,Jeddah,BMW,Automatic,Saudi,Standard,2019,2.5,38000,140000
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.6,143000,38000
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2013,1.0,296000,79000
+FJ,Taef,Toyota,Automatic,Saudi,Full,2012,4.0,348,65000
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Standard,2016,3.5,84000,42000
+Cerato,Dammam,Kia,Automatic,Saudi,Semi Full,2014,1.6,175000,25000
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.5,327000,46000
+F3,Al-Medina,BYD,Automatic,Saudi,Standard,2020,1.5,60000,28000
+Yaris,Dammam,Toyota,Automatic,Saudi,Standard,2016,1.5,126000,28000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,133000,25000
+FJ,Aseer,Toyota,Automatic,Saudi,Full,2017,7.5,138000,118000
+Caprice,Jeddah,Chevrolet,Automatic,Saudi,Standard,2009,3.5,320000,27000
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2014,3.8,271943,46500
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2013,5.7,340000,40000
+GS,Dammam,Lexus,Automatic,Other,Semi Full,2016,2.5,58000,137000
+Elantra,Riyadh,Hyundai,Manual,Other,Semi Full,2011,2.0,290,12000
+Yukon,Dammam,GMC,Automatic,Saudi,Full,2016,5.3,48000,145000
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2015,1.3,200000,25000
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2018,3.5,65000,76000
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2017,2.5,107000,50000
+Yaris,Yanbu,Toyota,Automatic,Saudi,Standard,2016,1.5,100,32000
+Hilux,Arar,Toyota,Manual,Saudi,Full,2018,2.7,35000,85000
+Flex,Khobar,Ford,Automatic,Saudi,Semi Full,2012,3.5,282000,25000
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Semi Full,2014,3.0,175000,72000
+S,Al-Medina,Mercedes,Automatic,Saudi,Full,2007,3.0,270000,45000
+E,Riyadh,Mercedes,Automatic,Saudi,Full,2016,3.0,64000,120000
+Optima,Al-Medina,Kia,Automatic,Saudi,Full,2015,2.4,129744,49500
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2019,3.5,108000,97000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,89685,34500
+Camry,Dammam,Toyota,Automatic,Saudi,Semi Full,2010,2.5,240000,30000
+Furniture,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2015,2.7,300,52000
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2016,2.4,76000,53000
+Pajero,Al-Medina,Mitsubishi,Automatic,Gulf Arabic,Full,2016,3.8,200,60000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Full,2016,3.0,91747,66500
+FJ,Jeddah,Toyota,Automatic,Saudi,Full,2014,4.0,190000,85000
+C,Aseer,Mercedes,Automatic,Other,Full,2018,2.0,91000,138000
+3,Al-Medina,Mazda,Automatic,Saudi,Standard,2018,2.0,47000,54000
+Explorer,Riyadh,Ford,Automatic,Other,Semi Full,2006,3.5,405000,18000
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2018,5.7,70000,123000
+Carnival,Dammam,Kia,Automatic,Gulf Arabic,Semi Full,2016,2.5,85000,62000
+Expedition,Al-Ahsa,Ford,Automatic,Saudi,Full,2012,5.4,289000,57000
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2015,5.7,119000,180000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,342000,53000
+Datsun,Dammam,Nissan,Manual,Saudi,Semi Full,2016,2.4,87300,53500
+Power,Al-Medina,Great Wall,Automatic,Saudi,Full,2021,2.0,4000,95000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,6.0,264000,69000
+Tahoe,Al-Ahsa,Chevrolet,Automatic,Saudi,Standard,2011,5.3,250000,40000
+Prestige Plus,Riyadh,Genesis,Automatic,Saudi,Semi Full,2016,3.8,132300,70000
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2009,6.2,20000,56000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,105000,23000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2018,5.7,82000,220000
+C,Dammam,Mercedes,Automatic,Saudi,Full,2018,3.0,44000,180000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2013,5.5,184000,36000
+Suburban,Riyadh,Chevrolet,Automatic,Gulf Arabic,Semi Full,2018,5.3,58000,170000
+S,Dammam,Mercedes,Automatic,Saudi,Full,2015,5.0,99000,255000
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2014,3.6,209500,56000
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2018,2.0,95000,75000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2005,5.3,409000,20000
+Sportage,Khobar,Kia,Automatic,Saudi,Standard,2019,1.6,43000,68000
+Pajero,Qassim,Mitsubishi,Automatic,Gulf Arabic,Full,2017,3.2,80000,89500
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2018,2.4,49271,81500
+Sunny,Jeddah,Nissan,Automatic,Saudi,Standard,2018,1.5,88000,24000
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2017,1.4,125000,30000
+Yukon,Riyadh,GMC,Automatic,Other,Full,2016,6.2,126000,176000
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2017,4.0,39000,151000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2016,5.3,139000,110000
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2009,5.7,293000,122000
+Expedition,Riyadh,Ford,Automatic,Saudi,Full,2020,3.5,5000,180000
+Impala,Qassim,Chevrolet,Manual,Gulf Arabic,Standard,2016,3.0,88000,61000
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2017,1.6,240000,45000
+Land Cruiser,Al-Jouf,Toyota,Automatic,Gulf Arabic,Full,2021,4.6,3000,260000
+Accord,Jeddah,Honda,Automatic,Other,Full,2010,2.4,205,30000
+Emgrand,Riyadh,Geely,Automatic,Saudi,Semi Full,2020,1.8,15000,60000
+Camry,Jubail,Toyota,Manual,Saudi,Full,2001,1.4,399000,10000
+G80,Riyadh,Genesis,Automatic,Saudi,Semi Full,2019,3.8,35449,121500
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2020,5.7,10000,425000
+3,Riyadh,Mazda,Automatic,Saudi,Semi Full,2016,2.0,104800,39000
+Land Cruiser,Jazan,Toyota,Manual,Saudi,Semi Full,2002,4.5,400,40000
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2006,5.3,377000,20000
+Sportage,Riyadh,Kia,Automatic,Saudi,Semi Full,2016,2.0,163000,43000
+S300,Dammam,Chrysler,Automatic,Other,Semi Full,2015,3.6,109000,74000
+Rav4,Makkah,Toyota,Automatic,Saudi,Full,2018,1.8,63000,90000
+Grand Cherokee,Makkah,Jeep,Automatic,Saudi,Full,2015,5.7,196,83000
+Grand Cherokee,Dammam,Jeep,Automatic,Saudi,Full,2017,5.7,102000,99000
+Veloster,Riyadh,Hyundai,Automatic,Saudi,Full,2013,2.0,248000,25000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,3.0,56000,77000
+Innova,Riyadh,Toyota,Manual,Saudi,Standard,2006,2.5,498000,18000
+The 5,Jubail,BMW,Automatic,Gulf Arabic,Standard,2018,2.0,16000,145000
+E,Makkah,Mercedes,Automatic,Other,Full,2016,2.0,93000,117000
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2015,2.0,191,38500
+3008,Riyadh,Peugeot,Automatic,Saudi,Full,2014,1.5,76335,30000
+C,Dammam,Mercedes,Automatic,Saudi,Semi Full,2016,2.0,140000,105000
+Innova,Dammam,Toyota,Automatic,Saudi,Semi Full,2016,2.7,179600,51000
+Victoria,Aseer,Ford,Automatic,Saudi,Standard,2002,4.6,368000,10000
+Taurus,Dammam,Ford,Automatic,Other,Semi Full,2017,3.5,142311,75000
+Impala,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2019,3.5,91000,74000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,131929,116500
+Optra,Dammam,Chevrolet,Manual,Saudi,Semi Full,2009,2.0,290000,7500
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2018,2.7,48000,90000
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2013,4.6,281000,135000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.6,169700,30000
+Rio,Dammam,Kia,Automatic,Saudi,Semi Full,2017,1.4,12000,26500
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2018,4.0,179858,121500
+Traverse,Riyadh,Chevrolet,Automatic,Other,Standard,2011,3.6,320000,23000
+Acadia,Jeddah,GMC,Automatic,Saudi,Full,2008,3.6,229000,19000
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2013,5.4,300000,49500
+Land Cruiser,Jazan,Toyota,Manual,Other,Full,2007,4.6,160000,125000
+Tucson,Jeddah,Hyundai,Automatic,Gulf Arabic,Standard,2015,2.0,66000,47000
+Corolla,Riyadh,Toyota,Automatic,Saudi,Full,2020,1.6,58000,65000
+Altima,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,2.5,40000,67000
+Charger,Riyadh,Dodge,Automatic,Saudi,Semi Full,2016,3.6,129477,78500
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.6,144039,39500
+Suburban,Taef,Chevrolet,Automatic,Other,Full,2008,5.3,263,32000
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2020,2.7,11571,116500
+Escalade,Dammam,Cadillac,Automatic,Gulf Arabic,Semi Full,2016,6.2,130000,180000
+Flex,Dammam,Ford,Automatic,Saudi,Semi Full,2014,3.5,180000,49000
+Odyssey,Riyadh,Honda,Automatic,Saudi,Full,2016,6.0,189000,57000
+VTC,Al-Ahsa,Nissan,Manual,Saudi,Standard,2015,4.8,340000,49000
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Semi Full,2006,3.5,300000,13000
+Camry,Qassim,Toyota,Automatic,Gulf Arabic,Standard,2016,2.5,73000,61000
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2017,2.0,140000,47000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2017,5.3,148450,128500
+Caprice,Dammam,Chevrolet,Automatic,Saudi,Full,2013,6.0,190000,50000
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,266000,56000
+Ciocca,Al-Ahsa,Toyota,Automatic,Saudi,Semi Full,2013,5.7,235000,85000
+Z370,Jazan,Nissan,Automatic,Saudi,Semi Full,2015,3.7,111075,80000
+Hiace,Dammam,Toyota,Manual,Saudi,Standard,2016,2.7,264000,65000
+Navigator,Aseer,Lincoln,Automatic,Saudi,Full,2011,5.4,200000,60000
+Yaris,Aseer,Toyota,Automatic,Saudi,Standard,2017,1.5,250000,26000
+Innova,Jubail,Toyota,Automatic,Saudi,Full,2015,2.7,114000,49000
+Accent,Al-Ahsa,Hyundai,Automatic,Saudi,Standard,2020,1.4,2600,45000
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.5,314000,46000
+Camry,Riyadh,Toyota,Automatic,Gulf Arabic,Standard,2020,2.5,4443,84500
+Hiace,Jeddah,Toyota,Manual,Saudi,Standard,2013,2.7,300000,42000
+A,Dammam,Mercedes,Automatic,Other,Full,2020,1.3,4700,165000
+Expedition,Makkah,Ford,Automatic,Other,Full,2003,5.4,364800,11000
+Malibu,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,1.5,127000,57000
+2,Riyadh,Mazda,Automatic,Saudi,Standard,2011,1.5,37000,14000
+LX,Taef,Lexus,Automatic,Saudi,Full,2014,5.0,100000,320000
+Avanza,Riyadh,Toyota,Automatic,Saudi,Standard,2016,1.6,160000,28000
+Nitro,Riyadh,Dodge,Automatic,Saudi,Semi Full,2011,3.7,346410,15000
+Carnival,Jeddah,Kia,Automatic,Saudi,Semi Full,2016,3.3,180,38000
+LX,Dammam,Lexus,Automatic,Gulf Arabic,Full,2017,5.7,68000,342000
+S5,Dammam,Audi,Automatic,Saudi,Full,2018,3.0,79800,160000
+C300,Al-Ahsa,Chrysler,Automatic,Other,Semi Full,2015,3.6,109000,70000
+Datsun,Taef,Nissan,Manual,Saudi,Full,2015,2.4,200000,35000
+Echo Sport,Riyadh,Ford,Automatic,Gulf Arabic,Semi Full,2021,1.5,1900,55000
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2017,2.4,263400,40000
+GS,Al-Ahsa,Lexus,Automatic,Gulf Arabic,Full,2017,1.0,69000,163000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,93049,29500
+5,Dammam,MG,Automatic,Saudi,Standard,2020,1.5,3500,41000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,5.7,68534,224500
+GS,Riyadh,Lexus,Automatic,Saudi,Full,2014,3.5,124000,136000
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,2.4,82000,88000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2014,5.3,160428,65000
+The 3,Riyadh,BMW,Automatic,Saudi,Semi Full,2013,2.0,156000,45000
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Standard,2016,3.5,45000,112000
+Tiggo,Riyadh,Chery,Automatic,Saudi,Standard,2021,1.5,4175,42500
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Full,2014,2.0,290000,33500
+Other,Jeddah,Other,Manual,Other,Semi Full,2021,1.2,3000,5500
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,3.3,126000,63000
+Land Cruiser,Tabouk,Toyota,Automatic,Gulf Arabic,Full,2013,4.6,186,138000
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Standard,2017,3.6,308400,45000
+F150,Qassim,Ford,Automatic,Saudi,Full,2014,3.2,200000,58000
+Van R,Hafar Al-Batin,Victory Auto,Manual,Saudi,Full,2017,1.2,1500,31000
+Expedition,Jeddah,Ford,Automatic,Saudi,Standard,2012,5.4,350000,30000
+500,Riyadh,Fiat,Automatic,Saudi,Full,2016,1.5,155000,45000
+Sorento,Jubail,Kia,Automatic,Saudi,Full,2015,3.8,167160,43000
+Sunny,Riyadh,Nissan,Manual,Saudi,Standard,2008,1.5,275000,10000
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2017,2.5,61000,77000
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2012,5.3,177000,75000
+Charger,Jeddah,Dodge,Automatic,Other,Full,2014,3.6,300000,35000
+Furniture,Makkah,Toyota,Automatic,Saudi,Standard,2015,2.7,250000,55000
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Full,2009,2.7,260000,21000
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2013,4.6,240000,105000
+Sonata,Dammam,Hyundai,Automatic,Saudi,Standard,2017,2.4,109191,54000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2008,5.7,230000,38000
+ASX,Riyadh,Mitsubishi,Automatic,Saudi,Full,2020,2.0,22000,67000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,117081,27000
+X-Trail,Dammam,Nissan,Automatic,Saudi,Semi Full,2017,2.5,99000,62000
+The 5,Jeddah,BMW,Automatic,Saudi,Standard,2019,2.0,49528,138000
+Charger,Dammam,Dodge,Automatic,Other,Full,2016,5.7,100000,109000
+Terrain,Jeddah,GMC,Automatic,Saudi,Semi Full,2013,2.4,90000,35000
+Altima,Qassim,Nissan,Automatic,Gulf Arabic,Full,2015,2.5,119500,47000
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Standard,2018,4.0,98000,105000
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2009,5.4,360,32000
+Charger,Abha,Dodge,Automatic,Saudi,Full,2013,5.7,216841,40000
+RX,Dammam,Lexus,Automatic,Other,Full,2017,3.5,81000,165000
+Innova,Qassim,Toyota,Automatic,Saudi,Semi Full,2015,2.7,216,39000
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2014,2.4,183000,34000
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,83000,45000
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2012,2.4,217000,39500
+ES,Hafar Al-Batin,Lexus,Automatic,Gulf Arabic,Semi Full,2016,3.5,200000,80000
+The 5,Jeddah,BMW,Automatic,Saudi,Semi Full,2015,2.0,89000,80000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2020,5.3,19348,186500
+Malibu,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2017,2.5,175000,49000
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2014,3.5,95560,80000
+Other,Al-Medina,Other,Manual,Other,Standard,2009,2.4,1300,26000
+H1,Makkah,Hyundai,Automatic,Other,Semi Full,2016,2.4,280000,32000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,107320,130000
+Charger,Al-Medina,Dodge,Automatic,Other,Full,2016,1.7,140,65000
+Cores,Makkah,Kia,Manual,Saudi,Standard,2005,4.0,400,10000
+The 5,Riyadh,BMW,Automatic,Saudi,Full,2009,2.3,216500,24000
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,1.4,83000,37000
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2015,2.5,277000,48000
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.5,121000,82000
+Victoria,Al-Ahsa,Ford,Automatic,Other,Semi Full,2011,4.6,230,28000
+C,Riyadh,Mercedes,Automatic,Other,Full,2020,2.0,24000,267000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2018,4.6,141197,195000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.0,349266,100000
+Hiace,Riyadh,Toyota,Manual,Gulf Arabic,Semi Full,2015,2.7,23000,49000
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Standard,2015,5.3,199000,97000
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2017,4.0,67357,126000
+Challenger,Jeddah,Dodge,Automatic,Saudi,Semi Full,2015,3.6,260,55000
+Hilux,Qassim,Toyota,Manual,Saudi,Standard,2012,2.7,394000,40000
+Sportage,Riyadh,Kia,Automatic,Other,Standard,2015,2.4,147000,38000
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Semi Full,2016,3.5,193000,45000
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2019,2.0,85828,80500
+Acadia,Riyadh,GMC,Automatic,Saudi,Semi Full,2016,3.6,148000,70000
+6,Jeddah,Mazda,Automatic,Saudi,Semi Full,2017,2.5,106000,56000
+A3,Riyadh,Audi,Automatic,Saudi,Semi Full,2016,2.0,70000,68000
+Accent,Hail,Hyundai,Automatic,Saudi,Standard,2020,1.4,21000,47000
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Standard,2012,3.8,85175,41500
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,4.0,201000,107000
+Challenger,Dammam,Dodge,Automatic,Other,Full,2018,4.5,90000,113000
+Camry,Riyadh,Toyota,Manual,Saudi,Semi Full,2004,2.5,400000,15000
+Navigator,Khobar,Lincoln,Automatic,Gulf Arabic,Full,2008,5.7,532000,35000
+GX,Dammam,Lexus,Automatic,Saudi,Full,2015,4.6,170000,135000
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Full,2021,4.0,7456,146500
+Yukon,Taef,GMC,Automatic,Saudi,Standard,2017,5.3,39000,142000
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2015,3.5,262000,55000
+Hilux,Jubail,Toyota,Automatic,Saudi,Full,2018,2.7,218000,78000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,200000,55000
+Elantra,Aseer,Hyundai,Automatic,Saudi,Semi Full,2013,2.0,300000,20000
+Suburban,Jeddah,GMC,Automatic,Saudi,Semi Full,2006,5.2,500000,14000
+3,Al-Medina,Mazda,Automatic,Saudi,Standard,2018,1.8,53000,54000
+Altima,Riyadh,Nissan,Automatic,Saudi,Full,2017,2.5,135988,49500
+Sierra,Qassim,GMC,Automatic,Saudi,Standard,2020,5.3,17000,135000
+Marquis,Taef,Ford,Automatic,Saudi,Semi Full,2008,4.6,380000,15000
+X40,Jeddah,FAW,Automatic,Saudi,Full,2020,1.1,53000,35000
+Accord,Qassim,Honda,Automatic,Gulf Arabic,Standard,2019,1.5,28000,88000
+Yukon,Aseer,GMC,Automatic,Other,Semi Full,2015,5.3,292000,75000
+Innova,Dammam,Toyota,Automatic,Saudi,Standard,2014,2.7,123000,33000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2009,6.0,135000,32000
+Optima,Dammam,Kia,Automatic,Saudi,Semi Full,2015,2.0,82900,46000
+Avalon,Riyadh,Toyota,Automatic,Saudi,Full,2017,3.5,104159,106500
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.5,62000,35000
+Copper,Riyadh,MINI,Manual,Saudi,Full,2018,2.0,59000,85000
+Expedition,Dammam,Ford,Automatic,Saudi,Semi Full,2008,5.4,346000,27000
+ES,Al-Baha,Lexus,Automatic,Saudi,Standard,2009,3.6,300000,43000
+Furniture,Jeddah,Toyota,Automatic,Saudi,Standard,2014,2.7,127000,57000
+H1,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,179000,45000
+Land Cruiser,Al-Baha,Toyota,Automatic,Gulf Arabic,Full,2006,4.6,285,65000
+Range Rover,Jeddah,Land Rover,Automatic,Saudi,Full,2018,5.0,44000,365000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,1.4,22550,41500
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,142000,48000
+A8,Riyadh,Audi,Automatic,Other,Full,2013,4.0,100000,108000
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2014,5.4,16682,76500
+Fusion,Dammam,Ford,Automatic,Gulf Arabic,Semi Full,2016,1.2,99200,45000
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Semi Full,2016,3.0,72000,108000
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2019,4.0,62000,195000
+Avalon,Tabouk,Toyota,Automatic,Saudi,Semi Full,2019,3.5,60000,115000
+Expedition,Al-Medina,Ford,Automatic,Saudi,Semi Full,2020,5.4,14000,173000
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.5,131099,36500
+Cerato,Tabouk,Kia,Automatic,Saudi,Semi Full,2014,1.6,223,24000
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,68000,66000
+6,Dammam,Mazda,Automatic,Saudi,Standard,2018,2.5,71169,65000
+Hilux,Riyadh,Toyota,Manual,Gulf Arabic,Semi Full,2020,2.7,27000,104500
+Corolla,Dammam,Toyota,Manual,Saudi,Standard,2015,1.6,128333,33000
+Land Cruiser Pickup,Qassim,Toyota,Manual,Gulf Arabic,Standard,2017,4.0,25471,122000
+3,Al-Medina,Mazda,Automatic,Saudi,Standard,2018,1.6,99000,45000
+ES,Jeddah,Lexus,Automatic,Other,Full,2021,3.5,1300,175000
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2019,5.6,36000,520000
+Pajero,Qassim,Mitsubishi,Automatic,Gulf Arabic,Semi Full,2016,6.0,200000,53000
+Charger,Riyadh,Dodge,Automatic,Other,Full,2020,3.6,9120,115000
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2016,5.3,112000,110000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,2.4,166000,43000
+Grand Cherokee,Dammam,Jeep,Automatic,Saudi,Full,2013,5.7,77000,77000
+C,Dammam,Mercedes,Automatic,Other,Semi Full,2019,2.0,35000,145000
+F150,Qassim,Ford,Automatic,Gulf Arabic,Full,2018,5.0,59790,135000
+S,Khobar,Mercedes,Automatic,Other,Full,2012,4.7,188000,80000
+Yaris,Makkah,Toyota,Automatic,Saudi,Standard,2017,1.3,100000,27000
+Range Rover,Qassim,Land Rover,Automatic,Saudi,Full,2020,2.0,4200,290000
+Malibu,Qassim,Chevrolet,Automatic,Saudi,Standard,2018,2.0,135000,46500
+Camry,Jeddah,Toyota,Automatic,Gulf Arabic,Semi Full,2010,2.5,145,25000
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Semi Full,2013,3.5,127000,38000
+Malibu,Riyadh,Chevrolet,Automatic,Gulf Arabic,Full,2017,2.0,62000,69000
+Camry,Al-Baha,Toyota,Manual,Saudi,Standard,2008,2.4,388000,17000
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2016,5.3,129356,140000
+C300,Dammam,Chrysler,Automatic,Saudi,Full,2013,1.0,220,42000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,36000,48000
+Suburban,Riyadh,GMC,Automatic,Saudi,Standard,2004,5.3,300000,8000
+Taurus,Dammam,Ford,Automatic,Other,Full,2016,3.5,72000,75000
+Odyssey,Riyadh,Honda,Automatic,Saudi,Semi Full,2016,3.5,185000,52000
+S,Dammam,Mercedes,Automatic,Gulf Arabic,Full,2002,3.0,101000,38000
+A,Jeddah,Mercedes,Automatic,Saudi,Standard,2020,2.0,10770,165000
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2019,4.5,82808,230000
+GLC,Dammam,Mercedes,Automatic,Gulf Arabic,Full,2020,2.0,4000,225000
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.0,137000,39000
+CX9,Dammam,Mazda,Automatic,Gulf Arabic,Full,2016,3.7,169300,65000
+Wrangler,Riyadh,Jeep,Automatic,Saudi,Full,2019,3.6,16000,181000
+LX,Riyadh,Lexus,Automatic,Other,Full,2004,4.7,274000,65000
+Charger,Riyadh,Dodge,Automatic,Saudi,Semi Full,2016,3.6,157136,84500
+Tucson,Jeddah,Hyundai,Automatic,Other,Semi Full,2016,2.4,119800,57000
+Blazer,Abha,Chevrolet,Automatic,Other,Full,2005,2.0,213000,13500
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Gulf Arabic,Full,2016,4.0,243038,93500
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2006,4.4,289000,20000
+Furniture,Dammam,Toyota,Automatic,Saudi,Semi Full,2020,4.0,40000,132000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Semi Full,2011,1.6,212000,15000
+XT5,Riyadh,Cadillac,Automatic,Saudi,Standard,2017,3.6,24000,130000
+Wrangler,Dammam,Jeep,Automatic,Saudi,Full,2018,3.0,70000,108000
+500,Riyadh,Fiat,Automatic,Gulf Arabic,Full,2020,1.4,7000,115000
+Expedition,Jeddah,Ford,Automatic,Saudi,Semi Full,2012,3.5,452000,40000
+Ciocca,Riyadh,Toyota,Automatic,Saudi,Standard,2012,5.7,376000,65000
+FJ,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,4.0,381000,88000
+E,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2016,3.0,121929,128500
+FJ,Riyadh,Toyota,Automatic,Saudi,Standard,2020,4.0,46000,135000
+Expedition,Al-Medina,Ford,Automatic,Other,Full,2010,5.7,335000,65000
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Standard,2016,2.4,106214,67500
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,2.0,159000,39000
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2017,1.6,100000,44000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.0,273392,100000
+Charger,Riyadh,Dodge,Automatic,Other,Semi Full,2017,5.7,141000,108000
+KICKS,Riyadh,Nissan,Automatic,Saudi,Semi Full,2020,1.6,200,66000
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Full,2016,3.5,126000,64000
+Cores,Jeddah,Kia,Automatic,Saudi,Full,2014,3.5,81000,78000
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,250385,47500
+GS3,Riyadh,GAC,Automatic,Other,Full,2021,1.3,22600,50000
+Camry,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2016,2.4,75000,68000
+Duster,Dammam,Renault,Automatic,Saudi,Full,2019,1.6,27000,54000
+Caprice,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2008,3.5,255000,25000
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2015,1.6,176277,37000
+Hilux,Jubail,Toyota,Manual,Saudi,Semi Full,2017,2.7,146000,72000
+Yukon,Hail,GMC,Automatic,Saudi,Semi Full,2011,5.3,223,40000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,90000,27000
+Azera,Makkah,Hyundai,Automatic,Gulf Arabic,Semi Full,2012,3.0,433000,30000
+Explorer,Al-Ahsa,Ford,Automatic,Other,Standard,2017,1.4,187000,73500
+Expedition,Riyadh,Ford,Automatic,Gulf Arabic,Semi Full,2014,5.4,204000,45000
+FJ,Jeddah,Toyota,Automatic,Saudi,Standard,2016,4.0,130,100000
+Lumina,Khobar,Chevrolet,Automatic,Saudi,Standard,2006,3.8,306000,9000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2010,5.3,352000,42000
+Sorento,Riyadh,Kia,Automatic,Saudi,Full,2016,3.5,93914,68500
+Land Cruiser 70,Riyadh,Toyota,Manual,Gulf Arabic,Semi Full,2016,4.0,177000,90000
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2020,2.5,21367,148500
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.6,114154,43000
+Accord,Qassim,Honda,Automatic,Gulf Arabic,Standard,2016,2.4,130000,61000
+IS,Dammam,Lexus,Automatic,Other,Full,2015,3.5,132000,106000
+Elantra,Riyadh,Hyundai,Automatic,Other,Full,2021,2.0,3000,90000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,6.2,268041,75000
+Cadenza,Riyadh,Kia,Automatic,Gulf Arabic,Full,2018,3.3,69000,95000
+C,Riyadh,Mercedes,Automatic,Other,Full,2016,2.0,120000,114000
+300,Al-Ahsa,Chrysler,Automatic,Other,Full,2014,5.7,188000,57000
+ES,Makkah,Lexus,Automatic,Saudi,Semi Full,2021,2.5,3000,177000
+K5,Al-Ahsa,Kia,Automatic,Saudi,Semi Full,2021,2.5,12000,94000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,3.0,107154,61000
+Altima,Qassim,Nissan,Automatic,Gulf Arabic,Semi Full,2015,2.5,94000,37000
+Innova,Jeddah,Toyota,Automatic,Saudi,Standard,2018,2.7,87000,70000
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2021,4.0,1800,265000
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2012,3.6,147000,25000
+Corolla,Tabouk,Toyota,Automatic,Saudi,Full,2015,1.6,90000,45000
+Patrol,Dammam,Nissan,Automatic,Saudi,Semi Full,2016,5.6,50000,150000
+ES,Al-Namas,Lexus,Automatic,Saudi,Full,2007,3.5,250000,25000
+Maxima,Jeddah,Nissan,Automatic,Saudi,Semi Full,2011,3.5,355000,20000
+Z,Jeddah,BMW,Automatic,Saudi,Full,2015,4.0,65555,95000
+Prestige,Riyadh,Genesis,Automatic,Saudi,Semi Full,2016,3.5,293000,77000
+Durango,Jeddah,Dodge,Automatic,Saudi,Standard,2013,3.6,115458,50000
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2017,5.7,80897,350000
+Rav4,Dammam,Toyota,Automatic,Saudi,Standard,2012,2.5,234000,30000
+Yukon,Dammam,GMC,Automatic,Saudi,Full,2009,5.3,440000,45000
+Challenger,Riyadh,Dodge,Automatic,Saudi,Full,2014,5.7,155000,68000
+Charger,Jeddah,Dodge,Automatic,Saudi,Full,2017,5.7,64000,145000
+Hilux,Al-Medina,Toyota,Manual,Saudi,Semi Full,2016,1.0,121,60500
+Accord,Dammam,Honda,Automatic,Gulf Arabic,Semi Full,2016,2.4,129000,68000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2011,5.3,401000,52000
+Prado,Besha,Toyota,Automatic,Saudi,Semi Full,2009,4.0,85000,73000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,91000,32000
+Innova,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.7,145997,64000
+Furniture,Dammam,Toyota,Automatic,Saudi,Semi Full,2020,4.0,55000,123000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,2.4,194814,55000
+X-Trail,Jeddah,Nissan,Automatic,Saudi,Standard,2018,2.5,78794,68000
+X-Trail,Riyadh,Nissan,Automatic,Saudi,Standard,2018,2.5,30000,68000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2018,1.4,63012,32000
+CRV,Jeddah,Honda,Automatic,Gulf Arabic,Full,2010,2.7,105000,35000
+Taurus,Dammam,Ford,Automatic,Saudi,Semi Full,2016,3.5,118000,65000
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2018,1.6,32000,97000
+Blazer,Riyadh,Chevrolet,Automatic,Saudi,Standard,2006,3.6,457000,10000
+Silverado,Dammam,Chevrolet,Automatic,Gulf Arabic,Semi Full,2014,5.3,233,75000
+Cruze,Taef,Chevrolet,Automatic,Saudi,Standard,2013,1.8,175,15000
+LX,Dammam,Lexus,Automatic,Other,Full,2013,5.7,98000,200000
+Yukon,Abha,GMC,Automatic,Saudi,Standard,2011,5.3,293,47000
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,2.0,237000,42000
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,4.0,201000,108000
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2015,2.4,144000,50000
+Malibu,Abha,Chevrolet,Automatic,Saudi,Semi Full,2013,2.4,233000,20000
+Attrage,Riyadh,Mitsubishi,Automatic,Saudi,Standard,2020,1.2,15000,25000
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Full,2017,3.8,69000,77000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2013,2.4,215000,28000
+Sonata,Al-Medina,Hyundai,Automatic,Saudi,Full,2018,2.4,97000,65000
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2010,6.0,35000,160000
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2017,2.7,400000,60000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Full,2013,3.0,284000,32000
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2019,4.6,110000,250000
+Land Cruiser Pickup,Tabouk,Toyota,Manual,Saudi,Semi Full,2015,4.0,96000,95000
+Carens,Jeddah,Kia,Automatic,Saudi,Semi Full,2015,1.6,37000,33000
+Sierra,Jeddah,GMC,Automatic,Saudi,Full,2016,5.3,161,80000
+Camry,Jeddah,Toyota,Manual,Saudi,Standard,2009,2.5,350000,25000
+Cerato,Jeddah,Kia,Automatic,Saudi,Standard,2019,1.6,43629,43500
+Corolla,Riyadh,Toyota,Automatic,Saudi,Semi Full,2017,1.6,107000,39000
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.6,47000,29000
+Taurus,Dammam,Ford,Automatic,Other,Full,2015,3.1,96000,81000
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2015,5.3,82343,125000
+Traverse,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2020,3.6,22800,100000
+Accord,Al-Ahsa,Honda,Automatic,Gulf Arabic,Full,2016,1.6,81000,63000
+S,Dammam,Mercedes,Automatic,Other,Semi Full,2007,3.0,200000,75000
+S,Aseer,Mercedes,Automatic,Saudi,Full,2008,1.0,190,65000
+GS,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2018,5.0,95000,250000
+CX9,Riyadh,Mazda,Automatic,Saudi,Semi Full,2016,3.0,230000,50000
+Tucson,Riyadh,Hyundai,Automatic,Saudi,Full,2015,2.0,251000,49000
+Elantra,Dammam,Hyundai,Automatic,Saudi,Standard,2020,2.0,132000,53000
+500,Dammam,Fiat,Automatic,Gulf Arabic,Full,2017,1.4,74000,48000
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2017,3.5,131408,69000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,5.3,176332,120000
+Dokker,Riyadh,Renault,Manual,Saudi,Standard,2016,1.8,143000,20000
+Escalade,Dammam,Cadillac,Automatic,Other,Full,2016,6.2,119000,178000
+Tucson,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2013,2.0,120000,32000
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Full,2017,1.6,132310,49500
+Rav4,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.5,174000,77000
+C,Dammam,Mercedes,Automatic,Other,Full,2017,2.0,54000,153000
+Tahoe,Riyadh,Chevrolet,Automatic,Gulf Arabic,Full,2017,5.3,73000,142000
+Vego,Riyadh,Ford,Automatic,Saudi,Full,2017,1.4,93000,26000
+Land Cruiser,Dammam,Toyota,Manual,Gulf Arabic,Full,2019,4.6,74000,180000
+Camry,Dammam,Toyota,Automatic,Saudi,Full,2020,3.5,26000,126000
+IS,Jazan,Lexus,Automatic,Saudi,Full,2017,3.5,69000,150000
+X,Riyadh,BMW,Automatic,Other,Standard,2020,3.0,15900,270000
+Tahoe,Dammam,Chevrolet,Automatic,Other,Full,2018,5.3,127000,155000
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2019,1.5,105739,26800
+C300,Riyadh,Chrysler,Automatic,Gulf Arabic,Full,2018,5.7,49000,135000
+Ciocca,Riyadh,Toyota,Automatic,Saudi,Full,2009,5.7,343000,60000
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2020,5.7,99000,145000
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2019,2.0,48000,80000
+Avalon,Riyadh,Toyota,Automatic,Saudi,Semi Full,2020,3.5,30000,127000
+Taurus,Riyadh,Ford,Automatic,Other,Full,2019,3.5,32714,109000
+Rav4,Riyadh,Toyota,Automatic,Saudi,Standard,2018,2.5,82000,71000
+Royal,Riyadh,Genesis,Automatic,Saudi,Full,2015,3.8,194000,85000
+S,Riyadh,Mercedes,Automatic,Other,Full,2015,1.6,90000,225000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2016,1.4,151000,24000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,72000,40000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,181000,29000
+Previa,Riyadh,Toyota,Automatic,Gulf Arabic,Standard,2017,2.4,139000,62000
+Accent,Al-Medina,Hyundai,Automatic,Saudi,Semi Full,2019,1.4,25000,39000
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2014,5.7,73000,220000
+Accord,Riyadh,Honda,Automatic,Saudi,Standard,2012,1.0,251000,38000
+Royal,Riyadh,Genesis,Automatic,Saudi,Full,2015,5.0,98000,111000
+Yukon,Aseer,GMC,Automatic,Saudi,Full,2021,5.3,3700,310000
+Edge,Riyadh,Ford,Automatic,Saudi,Full,2011,3.5,231000,35000
+Hilux,Abha,Toyota,Manual,Saudi,Full,2015,2.7,157000,60000
+Expedition,Al-Ahsa,Ford,Manual,Saudi,Full,2012,4.8,304,38000
+Hiace,Riyadh,Toyota,Manual,Saudi,Standard,2016,2.7,331000,62000
+Optra,Jeddah,Chevrolet,Automatic,Gulf Arabic,Full,2010,1.6,206000,8000
+Carnival,Riyadh,Kia,Automatic,Gulf Arabic,Semi Full,2017,3.8,77000,58000
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2008,5.7,390000,25000
+Acadia,Khobar,GMC,Automatic,Saudi,Full,2014,3.6,250000,50000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,117000,63000
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2013,2.4,344506,30000
+Rav4,Riyadh,Toyota,Manual,Saudi,Semi Full,2011,1.4,135000,25000
+Accord,Dammam,Honda,Automatic,Saudi,Standard,2016,2.4,61000,69000
+Camry,Arar,Toyota,Automatic,Saudi,Standard,2007,1.1,100000,22000
+CLA,Riyadh,Mercedes,Automatic,Other,Standard,2020,2.0,10000,195000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.4,158000,29000
+Charger,Riyadh,Dodge,Automatic,Saudi,Standard,2010,5.7,240000,25000
+Kona,Jeddah,Hyundai,Automatic,Saudi,Standard,2019,2.0,76000,56000
+G80,Riyadh,Genesis,Automatic,Saudi,Semi Full,2019,3.8,84000,120000
+QX,Dammam,INFINITI,Automatic,Saudi,Full,2016,5.6,185000,119000
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2020,3.5,38000,68000
+RC,Dammam,Lexus,Automatic,Other,Full,2019,3.6,42000,215000
+Escalade,Dammam,Cadillac,Automatic,Other,Full,2016,6.2,114000,175000
+Patrol,Jeddah,Nissan,Automatic,Saudi,Full,2014,4.0,265000,100000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,103000,31000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,363000,63000
+Impala,Riyadh,Chevrolet,Automatic,Gulf Arabic,Standard,2019,3.6,85000,68500
+Camry,Dammam,Toyota,Automatic,Saudi,Semi Full,2017,2.5,63000,63000
+Furniture,Riyadh,Toyota,Manual,Saudi,Semi Full,2015,4.0,70346,80500
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,106818,29500
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,2.4,139000,43000
+Fusion,Makkah,Ford,Automatic,Saudi,Semi Full,2012,2.5,270,16500
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2015,2.7,276,57000
+Altima,Riyadh,Nissan,Automatic,Gulf Arabic,Semi Full,2018,2.5,48096,68000
+Land Cruiser,Al-Baha,Toyota,Manual,Saudi,Semi Full,2012,6.6,109,120000
+C300,Riyadh,Chrysler,Automatic,Saudi,Standard,2017,3.6,133000,70000
+Furniture,Jeddah,Toyota,Automatic,Saudi,Standard,2019,2.7,60000,97000
+Passat,Jeddah,Volkswagen,Automatic,Saudi,Semi Full,2012,2.5,216000,22000
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2015,5.0,140000,260000
+Rav4,Jeddah,Toyota,Automatic,Saudi,Semi Full,2017,2.5,162000,60000
+Charger,Yanbu,Dodge,Automatic,Saudi,Full,2013,5.7,145000,35000
+Furniture,Dammam,Toyota,Automatic,Saudi,Semi Full,2020,4.0,3000,135000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,110000,27000
+Pajero,Jeddah,Mitsubishi,Automatic,Saudi,Standard,2015,3.5,135063,52000
+Land Cruiser 70,Hail,Toyota,Manual,Saudi,Semi Full,2011,4.0,352500,58000
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2009,6.3,211000,40000
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,90706,61500
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2015,1.0,190000,98000
+G80,Jeddah,Genesis,Automatic,Saudi,Semi Full,2017,3.8,240000,80000
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2020,2.7,5000,153000
+Rio,Jeddah,Kia,Automatic,Other,Standard,2017,1.4,147000,26000
+Innova,Jeddah,Toyota,Automatic,Saudi,Semi Full,2007,2.7,199800,25000
+Avante,Al-Ahsa,Hyundai,Automatic,Other,Full,2017,1.6,110750,60000
+LS,Dammam,Lexus,Automatic,Gulf Arabic,Full,2018,3.5,55000,298000
+Land Cruiser,Dammam,Toyota,Automatic,Gulf Arabic,Full,2020,4.6,19800,265000
+Beetle,Makkah,Volkswagen,Automatic,Saudi,Full,2015,6.0,130000,55000
+Other,Riyadh,Geely,Automatic,Saudi,Full,2017,1.4,45000,36000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2015,1.6,380000,35000
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2020,2.4,34000,120000
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.5,109862,59500
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2017,3.6,122102,53500
+GC7,Taef,Geely,Automatic,Saudi,Full,2015,1.6,140000,15000
+Sorento,Riyadh,Kia,Automatic,Saudi,Full,2016,3.3,116000,53000
+Azera,Sakaka,Hyundai,Automatic,Saudi,Standard,2021,3.5,11000,120000
+S,Dammam,Mercedes,Automatic,Saudi,Standard,2016,3.0,60000,210000
+Taurus,Al-Ahsa,Ford,Automatic,Saudi,Standard,2011,4.5,301515,26000
+Azera,Dammam,Hyundai,Automatic,Saudi,Full,2018,3.5,76000,78000
+Yukon,Al-Medina,GMC,Automatic,Saudi,Semi Full,2016,5.5,145000,100000
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,5.3,37000,148000
+Fusion,Riyadh,Ford,Automatic,Other,Full,2017,2.0,55000,65000
+The 7,Riyadh,BMW,Automatic,Saudi,Full,2010,2.0,205,45000
+Datsun,Riyadh,Nissan,Manual,Saudi,Standard,2016,2.4,2389,62000
+Accord,Hail,Honda,Automatic,Other,Standard,2017,2.4,141000,55000
+E,Dammam,Mercedes,Automatic,Gulf Arabic,Full,2017,2.0,98000,210000
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2015,1.9,274000,66000
+Previa,Riyadh,Toyota,Automatic,Saudi,Standard,2002,2.9,30923,12000
+CX9,Qassim,Mazda,Automatic,Gulf Arabic,Full,2015,2.4,138020,58000
+Spark,Riyadh,Chevrolet,Automatic,Saudi,Standard,2017,1.4,101000,21000
+Traverse,Jeddah,Chevrolet,Automatic,Saudi,Standard,2010,3.6,219,22000
+Land Cruiser Pickup,Jubail,Toyota,Manual,Saudi,Semi Full,2015,4.0,260000,60000
+H1,Tabouk,Hyundai,Manual,Saudi,Full,2008,2.4,1000,17000
+FJ,Jubail,Toyota,Automatic,Saudi,Semi Full,2014,4.0,237000,85000
+Hilux,Qassim,Toyota,Manual,Saudi,Standard,2008,2.7,533399,35000
+500,Dammam,Fiat,Automatic,Saudi,Full,2019,1.4,17000,70000
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2020,4.0,26000,235000
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2017,5.0,150000,115000
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2013,2.5,185000,42000
+Picanto,Al-Medina,Kia,Automatic,Saudi,Standard,2015,1.0,136000,18500
+Rio,Riyadh,Kia,Automatic,Saudi,Full,2019,1.4,48000,38000
+Hilux,Wadi Dawasir,Toyota,Manual,Saudi,Full,2007,2.7,445250,50000
+Yukon,Riyadh,GMC,Automatic,Other,Standard,2003,5.3,240000,15000
+Pathfinder,Dammam,Nissan,Automatic,Saudi,Semi Full,2005,3.5,308,13000
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.0,117000,39000
+ES,Jeddah,Lexus,Automatic,Gulf Arabic,Full,2016,3.5,86000,125000
+Cruze,Riyadh,Chevrolet,Automatic,Saudi,Standard,2016,1.8,154000,25000
+Fluence,Riyadh,Renault,Automatic,Saudi,Semi Full,2015,1.6,116633,25500
+Senta fe,Makkah,Hyundai,Automatic,Saudi,Semi Full,2017,3.3,147,65000
+G,Dammam,Mercedes,Automatic,Saudi,Full,2017,4.0,113000,330000
+Prado,Riyadh,Toyota,Automatic,Saudi,Full,2014,4.0,314000,95000
+Patrol,Riyadh,Nissan,Automatic,Saudi,Semi Full,2012,5.6,381000,75000
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Standard,2019,3.5,8968,81500
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2007,4.8,514,60000
+Accent,Jeddah,Hyundai,Manual,Saudi,Semi Full,2012,1.6,228000,15000
+Tahoe,Abha,Chevrolet,Automatic,Saudi,Standard,2016,5.3,217000,87000
+Avanza,Hafar Al-Batin,Toyota,Automatic,Saudi,Standard,2016,1.6,115,30000
+Rav4,Riyadh,Toyota,Automatic,Saudi,Full,2016,2.0,216000,60000
+Prado,Aseer,Toyota,Automatic,Saudi,Semi Full,2015,4.0,160000,105000
+Sportage,Riyadh,Kia,Automatic,Gulf Arabic,Semi Full,2018,2.4,77000,58000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,2.5,12000,78000
+LX,Dammam,Lexus,Automatic,Saudi,Full,2020,5.7,30000,468000
+Land Cruiser,Jeddah,Toyota,Automatic,Saudi,Full,2018,5.7,142000,245000
+Hilux,Al-Medina,Toyota,Manual,Saudi,Semi Full,2014,2.7,309000,45000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,2.4,129413,57500
+Quattroporte,Dammam,Maserati,Automatic,Saudi,Full,2015,3.0,125000,125000
+Dokker,Riyadh,Renault,Manual,Saudi,Standard,2018,1.6,88000,30000
+C200,Riyadh,Chrysler,Automatic,Saudi,Full,2016,2.4,163000,42000
+Dokker,Riyadh,Renault,Manual,Saudi,Standard,2019,1.6,78000,28000
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.6,88288,51500
+Sentra,Al-Ahsa,Nissan,Automatic,Gulf Arabic,Standard,2018,1.6,97000,39000
+Maxima,Riyadh,Nissan,Automatic,Gulf Arabic,Semi Full,2014,3.5,180,40000
+Explorer,Al-Medina,Ford,Automatic,Saudi,Standard,2010,6.0,244,17500
+Navara,Jeddah,Nissan,Manual,Saudi,Full,2015,2.5,83000,45000
+Taurus,Al-Ahsa,Ford,Automatic,Other,Semi Full,2019,3.5,108000,88000
+Sorento,Dammam,Kia,Manual,Saudi,Full,2006,3.5,257000,15000
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,305000,45000
+Duster,Riyadh,Renault,Automatic,Saudi,Standard,2018,2.0,164169,29500
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2018,1.5,93000,35000
+EC8,Riyadh,Geely,Automatic,Saudi,Full,2012,2.3,200000,11500
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2017,1.4,50000,33000
+Accord,Dammam,Honda,Automatic,Gulf Arabic,Full,2019,1.5,8200,107000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2016,5.3,97955,145000
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.6,79000,145000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,3.5,98530,56500
+CX9,Dammam,Mazda,Automatic,Other,Full,2017,3.0,93000,111000
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Semi Full,2017,3.5,159000,55000
+LX,Jeddah,Lexus,Automatic,Other,Full,2006,4.7,246000,37000
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2011,5.3,342000,55000
+Hilux,Al-Ahsa,Toyota,Automatic,Saudi,Full,2020,2.7,22000,120000
+F150,Al-Medina,Ford,Automatic,Saudi,Full,2017,2.8,28000,175000
+XT5,Riyadh,Cadillac,Automatic,Saudi,Full,2017,3.6,183000,108000
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2016,4.0,184000,100000
+Acadia,Riyadh,GMC,Automatic,Gulf Arabic,Full,2012,3.6,220000,40000
+Prado,Dammam,Toyota,Automatic,Gulf Arabic,Semi Full,2018,4.0,80000,142000
+Rio,Jeddah,Kia,Manual,Saudi,Standard,2008,1.0,323880,9000
+CX9,Al-Ahsa,Mazda,Automatic,Saudi,Full,2016,2.5,229000,63000
+Yukon,Riyadh,GMC,Automatic,Gulf Arabic,Standard,2016,5.3,88000,141000
+Caprice,Riyadh,Chevrolet,Automatic,Gulf Arabic,Semi Full,2007,6.0,300,15000
+X,Dammam,BMW,Automatic,Gulf Arabic,Full,2020,3.0,2300,465000
+ES,Riyadh,Lexus,Automatic,Saudi,Full,2015,3.5,85000,80000
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2010,5.3,292000,55000
+S,Riyadh,Mercedes,Automatic,Other,Full,2014,3.0,179000,169000
+Camry,Al-Medina,Toyota,Automatic,Saudi,Full,2007,2.5,420,30000
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2011,4.6,434,85000
+Wrangler,Jeddah,Jeep,Automatic,Gulf Arabic,Semi Full,2018,4.4,43000,135000
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2014,4.0,25000,115000
+Corolla,Riyadh,Toyota,Automatic,Other,Full,2015,2.0,80000,39000
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2017,1.6,97000,38500
+Range Rover,Al-Medina,Land Rover,Automatic,Saudi,Full,2017,5.2,77000,275000
+Montero,Riyadh,Mitsubishi,Automatic,Saudi,Full,2017,3.3,199000,73000
+Accent,Dammam,Hyundai,Automatic,Saudi,Standard,2019,1.4,56400,38000
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,211257,60000
+Elantra,Makkah,Hyundai,Automatic,Saudi,Standard,2012,1.8,222000,17500
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.6,103358,48500
+X,Riyadh,BMW,Automatic,Saudi,Full,2007,4.8,260000,28000
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2017,3.0,175000,50000
+Taurus,Jeddah,Ford,Automatic,Saudi,Full,2015,6.3,113220,82500
+VTC,Riyadh,Nissan,Manual,Saudi,Semi Full,2016,4.8,307801,99000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.6,125848,30000
+Navara,Jeddah,Nissan,Manual,Saudi,Standard,2016,2.5,7000,65000
+H3,Riyadh,Hummer,Automatic,Other,Full,2006,3.5,236000,22000
+6,Al-Medina,Mazda,Automatic,Saudi,Full,2014,2.5,232000,38000
+Sierra,Riyadh,GMC,Automatic,Other,Semi Full,2020,5.3,15800,150000
+Pajero,Riyadh,Mitsubishi,Automatic,Gulf Arabic,Standard,2015,3.5,103900,50000
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.4,110761,32000
+Yaris,Jubail,Toyota,Manual,Saudi,Standard,2016,1.5,134000,23000
+Sonata,Al-Ahsa,Hyundai,Automatic,Other,Semi Full,2016,2.4,258000,38000
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2015,2.5,179622,48000
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,3.0,199100,52000
+Charger,Al-Medina,Dodge,Automatic,Saudi,Full,2013,5.7,198000,42000

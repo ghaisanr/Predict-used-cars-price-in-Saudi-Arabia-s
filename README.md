@@ -1,32 +1,29 @@
-<h1> [Your Project Title] </h1>
+<h1> Predict Price for Used Cars in saudi arabia's</h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to gain insights, improve decision-making, and identify key trends. The main focus is to **predict used car prices to avoid overpricing and underpricing**
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- Objective 1: (Improve customer experience from predictions used car price)
+- Objective 2: (show features that affect the price of the car to provide price transparency to customers)
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
+- [Dataset 1](https://drive.google.com/drive/folders/123QthHe9ECfB1qUFCfDinHibrNhsnZKQ) - used cars price in saudi arabia's (syarah.com)
 
 ## 3. Technologies Used
-- Programming Language: Python (e.g., Pandas, NumPy)
-- Visualization: Matplotlib, Seaborn, Plotly
+- Programming Language: Python (pandas, numpy)
+- Visualization: Matplotlib, Seaborn
+- statistic : scipy, statmodels
+- machine learning : scikit-learn, imblearn
 - Version Control: Git
 - Others: Jupyter Notebook
-- ...
 
 ## 4. Project Structure
 
 ```
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
+│   ├── interim        <- Intermediate data that has been transformed. (clean data)
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
 │
@@ -34,9 +31,8 @@ Key Objectives:
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+│                         `1.0-gr-initial-data-exploration`.
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
@@ -50,11 +46,17 @@ Key Objectives:
 
 ## 5. Summary of Finding
 ### 5.1 Business Insight
-In this section, you can present the **actionable insights** derived from the analysis results.
+- Key Factors Driving Price Trends :
+    - For cars with low features, offer upgrade packages (e.g., installation of parking cameras or audio upgrades) to increase the resale value.
+    - Utilize this data to discount older cars for quick sale, while keeping newer cars as the main inventory.
+    - Prioritize procurement of cars from these brands to meet consumer demand.
+- Customer Preferences for Digital Services: Many buyers rely on online platforms for initial research and price comparisons. Providing advanced tools like price estimators or AI-driven recommendations can significantly improve user engagement and lead generation.
 ### 5.2 Actionable Recommendation
-In this section, you can offer **actionable business recommendations** to address the identified problems.
+- increase feature premium : Offer discounts for new users and free trial periods to encourage adoption.
+- Evaluate the Price for Premium :  Conduct regular customer surveys to assess willingness-to-pay and understand premium feature demand. and alayze market to benchmark prices against competitors and adjust pricing accordingly.
+- Improve Operational Efficiency : Develop an API that integrates the price prediction model into external systems
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Ghaisan Rabbani
+- Email: ghaisanrabbani5@gmail.com
+- Linkedin: https://www.linkedin.com/in/ghaisanr/
